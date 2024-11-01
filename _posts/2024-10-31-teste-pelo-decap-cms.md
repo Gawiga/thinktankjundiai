@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: Teste pelo Decap CMS
 categories: Teste
 ---

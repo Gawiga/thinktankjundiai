@@ -1,4 +1,17 @@
+# Think Tank Jundiai
+
+Uma nova forma de pensar políticas publicas
+
+## Configuracoes
+
+- Jekyll
+- Template -> https://github.com/mmistakes/minimal-mistakes
+
+
 # Jekyll + Decap CMS with Netlify Identity
+
+
+
 
 This is the basic Jekyll starter site, with Decap CMS integrated and using Netlify Identity for
 authentication.
